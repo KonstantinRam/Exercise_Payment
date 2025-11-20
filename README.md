@@ -7,7 +7,7 @@ Calculates pay (hours * rate, with overtime >40 hours at 1.5x)
 Shows formatted output with dollar signs and proper alignment
 Processes multiple employees until user enters "QUIT"
 
-###Expected output:
+### Expected output:
 ```
 Enter employee name (or QUIT): John Smith
 Enter hours worked: 45
