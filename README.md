@@ -1,6 +1,6 @@
 My very first COBOL program. ^_^
 
-Project shoud:
+# Task 1: Payment Calculator
 
 Reads employee name and hours worked from keyboard
 Calculates pay (hours * rate, with overtime >40 hours at 1.5x)
