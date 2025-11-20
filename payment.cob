@@ -82,8 +82,7 @@
         END-PERFORM
 
         DISPLAY "Execution stopped."
-        STOP RUN
-        GOBACK.
+        STOP RUN.
       
         DISPLAY-RESULTS.
             INITIALIZE WS-PAYMENT-DISP
@@ -209,3 +208,4 @@
                 END-IF
             END-PERFORM
         .
+
