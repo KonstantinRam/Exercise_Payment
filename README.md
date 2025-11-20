@@ -1,4 +1,5 @@
 My very first COBOL program. ^_^
+
 Project shoud:
 
 Reads employee name and hours worked from keyboard
